@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "duplicateinfusesmp.aternos.me",
+    "ip": "duplicateinfusesmp.aternos.me:60336",
     "port": 60336,
     "version": "",
     "try-creative": false
